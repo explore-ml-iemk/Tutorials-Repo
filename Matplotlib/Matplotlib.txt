@@ -1,0 +1,2 @@
+This notebook was created by Prateek Majumder for the ML Summit Workshop on 23/02/2020.
+Matplotlib basics are covered here.
