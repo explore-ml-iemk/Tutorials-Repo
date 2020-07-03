@@ -7,7 +7,7 @@ In association with Innovacion 2020 and Microsoft Student Partners IEM Kolkata
 - Shatadru Majumdar
 - Purbayan Chowdhury
 - Somodyuti Paul
-- Prateek Majumdar
+- Prateek Majumder
 - Shivam Aranya
 - Souham Ghosh
 - Balaka Biswas
