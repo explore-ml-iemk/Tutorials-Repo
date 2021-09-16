@@ -3,7 +3,7 @@ In association with Innovacion 2020 and Microsoft Student Partners IEM Kolkata
 
 ## Team 
 
-- [Sayantan Das](ucalyptus.me) (Lead)
+- [Sayantan Das](https://ucalyptus.me) (Lead)
 - Shatadru Majumdar
 - Purbayan Chowdhury
 - Somodyuti Paul
